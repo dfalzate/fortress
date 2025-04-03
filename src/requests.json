@@ -1,0 +1,27 @@
+[
+  {
+    "smoking_room": false,
+    "checkIn_date": "2025-04-10",
+    "checkOut_date": "2025-04-11"
+  },
+  {
+    "smoking_room": true,
+    "checkIn_date": "2025-04-12",
+    "checkOut_date": "2025-04-18"
+  },
+  {
+    "smoking_room": false,
+    "checkIn_date": "2025-04-20",
+    "checkOut_date": "2025-04-25"
+  },
+  {
+    "smoking_room": true,
+    "checkIn_date": "2025-04-05",
+    "checkOut_date": "2025-04-10"
+  },
+  {
+    "smoking_room": false,
+    "checkIn_date": "2025-04-15",
+    "checkOut_date": "2025-04-22"
+  }
+]

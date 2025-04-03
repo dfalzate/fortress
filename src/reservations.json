@@ -1,0 +1,20 @@
+[
+  {
+    "room_id": "550e8400-e29b-41d4-a716-446655440000",
+    "checkIn_date": "2025-04-09",
+    "checkOut_date": "2025-04-14",
+    "nights": 5
+  },
+  {
+    "room_id": "6a1d7cb3-5f45-4e1d-8a77-d3b4dcb5f3a9",
+    "checkIn_date": "2025-04-13",
+    "checkOut_date": "2025-04-17",
+    "nights": 4
+  },
+  {
+    "room_id": "3c3f2a69-9fcd-4a4d-8e67-78e0d4cf2c3b",
+    "checkIn_date": "2025-04-22",
+    "checkOut_date": "2025-04-27",
+    "nights": 5
+  }
+]

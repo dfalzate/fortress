@@ -1,0 +1,27 @@
+[
+  {
+    "room_id": "550e8400-e29b-41d4-a716-446655440000",
+    "smoking_room": false,
+    "price": 120
+  },
+  {
+    "room_id": "6a1d7cb3-5f45-4e1d-8a77-d3b4dcb5f3a9",
+    "smoking_room": true,
+    "price": 150
+  },
+  {
+    "room_id": "3c3f2a69-9fcd-4a4d-8e67-78e0d4cf2c3b",
+    "smoking_room": false,
+    "price": 100
+  },
+  {
+    "room_id": "8e1d4b29-a9f7-4c2e-bfa1-5d48d3f27a50",
+    "smoking_room": true,
+    "price": 130
+  },
+  {
+    "room_id": "f1a3b2c9-5c48-401f-92a8-2d7e9b4c0d6e",
+    "smoking_room": false,
+    "price": 110
+  }
+]
