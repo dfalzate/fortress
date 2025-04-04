@@ -69,7 +69,10 @@ function main() {
   
     // Find the room with the lowest price among the available rooms
     for (const room of availableRooms) {
-      if (room.price < price) selectedRoom = room
+      if (room.price < price) {
+        selectedRoom = room
+        price = room.price
+      }
     }
   
     // If no room is selected, throw an error
