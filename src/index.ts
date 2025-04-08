@@ -65,7 +65,7 @@ function main() {
     if (availableRooms.length === 0) throw new Error("There are no available rooms")
   
     let selectedRoom: Room | null = null
-    const price = +Infinity 
+    let price = +Infinity; 
   
     // Find the room with the lowest price among the available rooms
     for (const room of availableRooms) {
